@@ -53,3 +53,28 @@ p
     background-repeat: no-repeat;
     position: left;
 }
+.Middle-con
+{
+color: #b38728;
+}
+h3{
+    color: wheat;
+}
+.half-width2
+{
+    width: 50%;
+    padding: 6%;
+    margin-bottom: 100px;
+}
+.half-width2 image
+{
+    width: 80%;
+    margin-bottom: 0px;
+}
+.book-img
+{
+    background-image: url(Images/Bookbackgrg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
