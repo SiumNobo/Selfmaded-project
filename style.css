@@ -76,5 +76,13 @@ h3{
     background-image: url(Images/Bookbackgrg.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    margin-bottom: 0%;
 
+}
+.Camera-img
+{
+    background-image: url(Images/camera.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 0%;
 }
